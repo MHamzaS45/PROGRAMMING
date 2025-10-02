@@ -1,4 +1,4 @@
-#Create a Python program which prompts user to insert two integers. Use these integers together with the “for-loop” structure to create behaviour like in the example program example run below.
+# Create a Python program which prompts user to insert two integers. Use these integers together with the “for-loop” structure to create behaviour like in the example program example run below.
 print ("Program starting.")
 Feed = (input("Insert starting value: "))
 StartingValue = int(Feed)
