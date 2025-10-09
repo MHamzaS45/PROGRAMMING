@@ -1,4 +1,4 @@
-#A4 TASK 3 #class ver.
+#A4 TASK 3 #class ver. 
 print ("Program starting.")
 Feed = input("\nInsert starting value: ")
 StartingValue = int(Feed)
