@@ -1,4 +1,4 @@
-#A5 TASK 2
+#A5 TASK 2.py
 def frameWord(PWord):
     length = len(PWord)
     print ("*" * (length + 4))
