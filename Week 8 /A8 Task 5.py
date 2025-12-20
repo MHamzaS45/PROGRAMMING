@@ -1,4 +1,5 @@
 #A8 Task 5 
+#hashlib module
 import hashlib
 CREDENTIALS_FILE = "credentials.txt"
 
