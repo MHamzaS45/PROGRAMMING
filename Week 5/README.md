@@ -1,14 +1,12 @@
-# Week 5 — Fundamentals: (Directory listing unavailable; template)
+# Week 5 — Fundamentals: Functions
 
 Overview
 A README template for Week 5 is provided below. The directory listing for Week 5 was not available at the time this file was created, so the specific exercise filenames are left as placeholders. Replace the placeholders with the actual filenames in the Week 5 folder.
 
 Placeholder file list
 - Week 5/<insert_filename_1>.py
-- Week 5/<insert_filename_2>.py
-- Week 5/<insert_filename_3>.py
-
-Suggested topics these exercises usually cover
+-
+Topics these exercises  cover
 - Intermediate control flow and data structures (lists, dictionaries)
 - Functions and modularization, possibly brief introduction to modules and packages
 - File input/output or basic error/exception handling (common mid-course topics)
