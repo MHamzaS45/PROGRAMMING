@@ -11,11 +11,11 @@ You may travel only once per program run. Travel should begin by displaying the 
 
 Place names listed:
 
-home
-Galba's palace
-Otho's palace
-Vitellius' palace
-Vespasian's palace
+0. home
+1. Galba's palace
+2. Otho's palace
+3. Vitellius' palace
+4. Vespasian's palace
 
 
 Create a file “player_progress.txt” and initialize it with the following details
