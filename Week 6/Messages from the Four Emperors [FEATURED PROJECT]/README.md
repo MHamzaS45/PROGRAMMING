@@ -52,20 +52,6 @@ After the progress and the Emperor’s message have been saved, the program clos
 
 Example program runs:
 
-run 1 run 2 run 3 run 4
-
-Travel starting.
-Currently at home.
-Travelling to Galba's palace...
-...Arriving to the Galba's palace.
-Passing the guard at the entrance.
-"Discipline!"
-Looking for the message in the palace...
-Ah, there it is! Seems cryptic.
-[Game] Progress autosaved!
-Deciphering Emperor's message...
-Looks like I've got now the plain version copy of the Emperor's message.
-Time to leave...
-Travel ending.
+<img width="706" height="389" alt="image" src="https://github.com/user-attachments/assets/64fa53f9-c3d6-45e8-890a-dda60f7eb953" />
 
 
