@@ -17,11 +17,12 @@ Otho's palace
 Vitellius' palace
 Vespasian's palace
 
- Create a file “player_progress.txt” and initialize it with the following details.
----
-current_location;next_location;passphrase
-0;1;qvfpvcyvar
----
+
+Create a file “player_progress.txt” and initialize it with the following details
+-
+<img width="497" height="129" alt="image" src="https://github.com/user-attachments/assets/1755c5d8-5f51-4a4b-8737-dca025a2d5ba" />
+
+
 
 Player progress file explained:
 
