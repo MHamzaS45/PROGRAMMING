@@ -40,18 +40,16 @@ Read the first line as ciphered text and append it to the player_progress.txt. A
 
 Examples of message formats:
 
-file1: Ciphered message "{NextLocationId}_{PassPhrase}.gkg"
-file2: Plain version to save "{NextLocationId}-{PlainPassPhrase}.txt"
-file 1 file 2
+File 1
+---
+<img width="837" height="340" alt="image" src="https://github.com/user-attachments/assets/c13810de-d693-43c4-9a4e-567cd3e92c61" />
 
-0;1;qvfpvcyvar
-Cneg 0 - Lrne bs gur Sbhe Rzcrebef:
+File 2
 ----
-Va NQ 68, nsgre Areb'f qrngu, Ebzr cyhatrq vagb punbf.
-Jvgu ab pyrne urve, gur rzcver fnj encvq cbjre fgehttyrf.
-Tnyon gbbx gur guebar svefg, sbyybjrq ol Bgub, Ivgryyvhf, naq svanyyl Irfcnfvna,
-rnpu onggyvat sbe pbageby va jung orpnzr gur Lrne bs gur Sbhe Rzcrebef.
-----
+
+<img width="828" height="345" alt="image" src="https://github.com/user-attachments/assets/8295ffe9-e98f-4dbb-91d1-7e2f88b2c3c1" />
+
+
 
 
 After the progress and the Emperor’s message have been saved, the program closes with the final phrases. The next time the program runs, it should be able to read the previous progress from player_progress.txt and continue the next turn.
