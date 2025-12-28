@@ -1,7 +1,8 @@
 # A6_T7 Messages from the Four Emperors
-
+A Python Project in VS Code
 
 Each of the Four Emperors—Galba, Otho, Vitellius and Vespasian—has left a message in their own palaces. Your task is to travel programmatically to each location and gather all their messages.
+
 
 You may travel only once per program run. Travel should begin by displaying the current location, followed by the process of traveling to the next location. The first location is the “start” or “Home” location on the map below.
 
