@@ -43,10 +43,10 @@ Examples of message formats:
 file1: Ciphered message "{NextLocationId}_{PassPhrase}.gkg"
 file2: Plain version to save "{NextLocationId}-{PlainPassPhrase}.txt"
 file 1 file 2
-----
+
 0;1;qvfpvcyvar
 Cneg 0 - Lrne bs gur Sbhe Rzcrebef:
-
+----
 Va NQ 68, nsgre Areb'f qrngu, Ebzr cyhatrq vagb punbf.
 Jvgu ab pyrne urve, gur rzcver fnj encvq cbjre fgehttyrf.
 Tnyon gbbx gur guebar svefg, sbyybjrq ol Bgub, Ivgryyvhf, naq svanyyl Irfcnfvna,
