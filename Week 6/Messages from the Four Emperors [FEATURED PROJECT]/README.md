@@ -5,6 +5,8 @@ Each of the Four Emperors—Galba, Otho, Vitellius and Vespasian—has left a me
 
 You may travel only once per program run. Travel should begin by displaying the current location, followed by the process of traveling to the next location. The first location is the “start” or “Home” location on the map below.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb028690-58f7-4173-9db5-8b067a3ad86b" />
+
 
 
 Place names listed:
@@ -14,11 +16,12 @@ Galba's palace
 Otho's palace
 Vitellius' palace
 Vespasian's palace
-Create a file “player_progress.txt” and initialize it with the following details.
 
-file 1
+ Create a file “player_progress.txt” and initialize it with the following details.
+---
 current_location;next_location;passphrase
 0;1;qvfpvcyvar
+---
 
 Player progress file explained:
 
@@ -40,6 +43,7 @@ Examples of message formats:
 file1: Ciphered message "{NextLocationId}_{PassPhrase}.gkg"
 file2: Plain version to save "{NextLocationId}-{PlainPassPhrase}.txt"
 file 1 file 2
+----
 0;1;qvfpvcyvar
 Cneg 0 - Lrne bs gur Sbhe Rzcrebef:
 
@@ -47,6 +51,8 @@ Va NQ 68, nsgre Areb'f qrngu, Ebzr cyhatrq vagb punbf.
 Jvgu ab pyrne urve, gur rzcver fnj encvq cbjre fgehttyrf.
 Tnyon gbbx gur guebar svefg, sbyybjrq ol Bgub, Ivgryyvhf, naq svanyyl Irfcnfvna,
 rnpu onggyvat sbe pbageby va jung orpnzr gur Lrne bs gur Sbhe Rzcrebef.
+----
+
 
 After the progress and the Emperor’s message have been saved, the program closes with the final phrases. The next time the program runs, it should be able to read the previous progress from player_progress.txt and continue the next turn.
 
