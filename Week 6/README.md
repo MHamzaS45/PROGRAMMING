@@ -1,4 +1,4 @@
-# Week 6 — Fundamentals: Working with Files, Data & Functions
+# Week 6 — Fundamentals: File Handling
 
 Overview
 Week 6 contains tasks focused on practical program structures that often involve reading/writing data and combining functions/data structures to solve problems.
