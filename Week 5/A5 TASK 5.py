@@ -23,6 +23,7 @@ def main() -> None:
             print(f'Word reversed: "{word[::-1]}"')
         elif choice == 0:
             print("Exiting program.\n")
+            break
         else:
             print("Unknown option, try again")
         print("")
@@ -31,3 +32,4 @@ def main() -> None:
 
 
 main()
+
