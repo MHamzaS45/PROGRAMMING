@@ -1,4 +1,4 @@
-# Week 9 - Fundamentals: Try/Except 
+# Week 9 - Fundamentals: Error Handling (Try/Except) 
 
 Topics covered: 
 
