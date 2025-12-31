@@ -1,5 +1,8 @@
-#A10 Task 7.py
-# Featured Project: Minesweeper Field
+########################################################
+# Task A10_T7--Minesweeper Field 
+# Developer Hamza Sahqani
+# Date 2025-12-28
+########################################################
 
 import random
 random.seed(1234)
