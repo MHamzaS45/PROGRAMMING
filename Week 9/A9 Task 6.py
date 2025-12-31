@@ -1,5 +1,8 @@
-#A9 Task 6.py
-#Save before exit - Keyboard Interrupt error handling
+########################################################
+# Task A9_T6
+# Developer Hamza Sahqani
+# Date 2025-12-20
+########################################################
 
 def saveLines(Lines: list[str], Filename: str) -> None:
     with open(Filename, "w", encoding="utf-8") as file:
