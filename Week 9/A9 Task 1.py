@@ -4,7 +4,7 @@
 # Date 2025-12-25
 ########################################################
 
-def take_user_input(): 
+def userInput(): 
     values = []
     while True:
         Feed = input("Insert a floating-point value (0 to stop): ")
@@ -20,9 +20,9 @@ def take_user_input():
 
 def main():
     print("Program starting.\n")
-    values = take_user_input()
+    values = userInput()
     total = sum(values)
-    print("\nFinal sum is {:.2f}".format(total))
+    print("Final sum is {:.2f}".format(total))
   
 if __name__ == "__main__":
     main()
