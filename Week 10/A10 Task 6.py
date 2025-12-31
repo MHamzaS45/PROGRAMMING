@@ -39,7 +39,6 @@ def quick_sort(arr: List[int]) -> List[int]: # Algorithm
     return quick_sort(left) + middle + quick_sort(right)
 
 def time_sorting(algorithm: Callable, dataset: List[int]) -> int: #Algorithm
-    """Return time taken by algorithm to sort dataset (nanoseconds)."""
     start = time.perf_counter_ns()
     algorithm(dataset)
     end = time.perf_counter_ns()
