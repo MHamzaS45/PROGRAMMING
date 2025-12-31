@@ -1,10 +1,6 @@
 #  A7 Task 7.py
 # Featured Project - Enigma Machine Simulator
-
-# Enigma Machine – A7 Assignment (CamelCase variables)
-
 ALPHABET = ("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
-
 
 def LoadConfig(Filename: str):
     Rotors = []
