@@ -1,6 +1,6 @@
 # A10 Task 1.py
-# Developer: Muhammad Hamza Sahqani
-# Date: 2025-12-21
+# Read and display data
+
 import sys
 
 def display():
