@@ -70,7 +70,6 @@ def saveBoard(PMineField: list[list[int]], filename: str) -> None:
 
 def main() -> None:
     print("Program starting.")
-
     minefield = []
 
     while True:
