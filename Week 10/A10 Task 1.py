@@ -3,6 +3,10 @@
 # Developer Muhammad Hamza Sahqani
 # Date 2025-12-27
 ########################################################
+# A10 Task 1.py
+# Developer: Muhammad Hamza Sahqani
+# Date: 2025-12-21
+
 import sys
 
 def display():
@@ -12,7 +16,8 @@ def display():
         try:
             filename = input("Insert filename: ").strip()
             try:
-                with open(filename,"r") as file
+                with open(filename,"r") as file:
+                    #vertically
                     print("#---Vertically---#")
                     for line in file:
                         line = line.strip()
@@ -21,8 +26,8 @@ def display():
                             horizontal_box.append(line)
                     print("#---Vertically---#")
                 print("#---Horizontally---#")
-                int_num = [int(num) for num in horizontal_box] 
-                print_out = " , ".join(str(num) for num in int_num)
+                intNum = [int(num) for num in horizontal_box] 
+                print_out = " , ".join(str(num) for num in intNum)
                 print(print_out)
                 print("#---Horizontally---#")
                 break
