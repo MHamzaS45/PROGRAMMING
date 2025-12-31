@@ -1,11 +1,8 @@
-# Week 9 - Fundamentals: (Algorithms)
+# Week 9 - Fundamentals: Try/Except 
 
 Topics covered: 
 
-- Understand the concept and use of dictionaries in Python.
-- Learn how to sort tuples and dictionaries.
-- Be introduced to the numpy library for matrix operations.
-- Understand how Python can be used for basic data analytics.
-- Understand what an algorithm is.
-- Learn how to write and interpret pseudocode.
-- Understand recursion and when to use it.
+- Understand what errors and exceptions are in Python.
+- Use try, except, and finally blocks to handle errors.
+- Write programs that fail gracefully and inform the user of issues.
+- Apply error handling to real-world scenarios.
