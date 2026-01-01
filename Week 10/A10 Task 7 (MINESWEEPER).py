@@ -1,3 +1,4 @@
+# ALERT! This task is still under construction. Expect it to be expanded into a larger project in the near future.
 ########################################################
 # Task A10_T7--Minesweeper Field 
 # Developer Hamza Sahqani
