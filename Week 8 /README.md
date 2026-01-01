@@ -8,9 +8,9 @@ Purpose of tasks:
 
 • Use built-in modules like math, random, sys, datetime
 
-• Create and import their own modules, especially from previous files.
+• Create and import their own modules, and modules from previous files.
 
-• Understand the difference between import and from ... import (Exhibited clearly in A8 Task 4.py)
+• Understand the difference between 'import MODULE' and 'from MODULE' and when to use them.
 
 • Recognize the risks of namespace collisions. 
 
