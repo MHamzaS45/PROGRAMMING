@@ -14,7 +14,7 @@ import sys
 def bubbleSort(PValues: list[int], PAsc: bool = True) -> None: 
     size = len(PValues)
     for pass_index in range(size - 1):
-        for current in range(size - pass_index - 1):
+        for current in range(size - pass_index - 1):               # Remaining = Items(n) − Iteration − 1
             if PAsc:
                 if PValues[current] > PValues[current + 1]:
                     PValues[current], PValues[current + 1] = (
