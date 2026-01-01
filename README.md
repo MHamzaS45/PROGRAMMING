@@ -6,5 +6,5 @@ https://github.com/MHamzaS45/PROGRAMMING
 
 Next Repository Revision  Date: 1 January 2026 
 ---
-- Profile revision expected
+- README.md file revision expected to be more professional
 - Addition of DOC files used in tasks
