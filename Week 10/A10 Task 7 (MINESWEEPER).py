@@ -55,7 +55,6 @@ def generateMinefield(
     layMines(PMineField, PMines)
     calculateNearbys(PMineField)
 
-
 def printBoard(PMineField: list[list[int]]) -> None:
     if not PMineField:
         print("No board generated.")
@@ -75,30 +74,25 @@ def saveBoard(PMineField: list[list[int]], filename: str) -> None:
 def main() -> None:
     print("Program starting.")
     minefield = []
-
     while True:
         print("\nOptions:")
         print("1 - Generate minesweeper board")
         print("2 - Show generated board")
         print("3 - Save generated board")
         print("0 - Exit")
-
+        
         choice = input("Your choice: ")
-
         if choice == "1":
             try:
                 rows = int(input("Insert rows: "))
                 cols = int(input("Insert columns: "))
                 mines = int(input("Insert mines: "))
-
                 if rows <= 0 or cols <= 0 or mines < 0:
                     print("Invalid values.")
                     continue
-
                 if mines > rows * cols:
                     print("Too many mines.")
                     continue
-
                 generateMinefield(minefield, rows, cols, mines)
             except ValueError:
                 print("Invalid input.")
