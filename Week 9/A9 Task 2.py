@@ -3,9 +3,7 @@
 # Developer Hamza Sahqani
 # Date 2025-12-25
 ########################################################
-
 import sys
-
 
 def getExitCodeMessage() -> int:
     global Feed
