@@ -4,6 +4,7 @@ Overview
 Files included
 
 Purpose of tasks:
+
 • Understand what Python modules and libraries are.
 
 • Use built-in modules like math, random, and datetime.
