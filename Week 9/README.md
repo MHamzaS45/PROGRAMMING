@@ -4,5 +4,5 @@ Topics covered:
 
 - Understand what errors and exceptions are in Python.
 - Use try, except, and finally blocks to handle errors.
-- Write programs that fail gracefully and inform the user of issues.
-- Apply error handling to real-world scenarios.
+- Learn syntax for different errors (KeyboardError, FileNotFound, ValueError)
+- Write programs that fail gracefully and inform the user of errors.
