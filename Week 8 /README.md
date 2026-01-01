@@ -1,17 +1,16 @@
 # Week 8 - Modules and libraries 
 
-Overview 
-Files included
+
 
 Purpose of tasks:
 
 • Understand what Python modules and libraries are.
 
-• Use built-in modules like math, random, and datetime.
+• Use built-in modules like math, random, sys, datetime
 
-• Create and import their own modules.
+• Create and import their own modules, especially from previous files.
 
-• Understand the difference between import and from ... import.
+• Understand the difference between import and from ... import (Exhibited clearly in A8 Task 4.py)
 
-• Recognize the risks of namespace collisions.
+• Recognize the risks of namespace collisions. 
 
