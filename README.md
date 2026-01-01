@@ -4,4 +4,6 @@ Repository for all tasks completed in my Programming Class (Python)
 
 https://github.com/MHamzaS45/PROGRAMMING
 
-Next Repository Revision  Date: 31 December 2025
+Next Repository Revision  Date: 2 January 2026 
+---
+- Profile revision expected
