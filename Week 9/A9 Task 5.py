@@ -7,7 +7,7 @@ def getRGB() -> bool:                             # True/False
     global R, G, B, hexColor                       #So it can be used in the main function
     try:
         R = int(input("Insert red: "))
-        if not (0 <= R <= 255):                #Better to find range
+        if not (0 <= R <= 255):                #Better to find range than the usual function
             raise Exception                    #Continue the program execution to the end normally skipping the RGB displaying part. One way to achieve this is to use “try-except” for the whole process and then any incorrect value being collected raises exception
         G = int(input("Insert green: "))
         if not (0 <= G <= 255):             
