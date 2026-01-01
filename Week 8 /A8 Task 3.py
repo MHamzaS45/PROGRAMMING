@@ -5,7 +5,6 @@ import sys
 
 
 def readValues(PFilename: str, PValues: list[float]) -> None: # Values can be stored into a list[float] data structure
-    """Read floating-point values from file into list."""
     PValues.clear()
     try:
         with open(PFilename, "r", encoding="utf-8") as file:
@@ -36,8 +35,8 @@ def displayMenu() -> None:
 def main() -> None:               #Provide output for displayed menu as well.
     print("Program starting.")
     values: list[float] = []           # Values can be stored into a list[float] data structure
-    while True:
-        displayMenu()
+    while True:                          #Standard menu function
+        displayMenu()                      
         choice = input("Your choice: ").strip()
         if choice == "1":
             filename = input("Insert filename: ")
@@ -54,11 +53,11 @@ def main() -> None:               #Provide output for displayed menu as well.
             print("Exiting program.")
             break
         else:
-            print("Invalid choice.")
+            print("Invalid output.")
     values.clear()
-    print("Program ending.")
-
+    
 
 if __name__ == "__main__":
     main()
+    print("Program ending.")
 
