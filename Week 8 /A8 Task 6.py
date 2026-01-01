@@ -39,6 +39,8 @@ def drawCircle(PDwg: Drawing) -> None:
 
 def saveSvg(PDwg: Drawing) -> None:
     filename = input("Insert filename: ").strip()
+    if not filename.lower().endswith(".svg"):
+        filename += ".svg"
     print(f'Saving file to "{filename}"')
     proceed = input("Proceed (y/n)?: ").strip().lower()
     if proceed == "y":
