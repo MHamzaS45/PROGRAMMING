@@ -3,12 +3,6 @@
 Overview
 This week develops control flow skills: using conditionals to make decisions and loops to repeat operations. The tasks typically combine conditional logic with iteration and may include simple algorithms.
 
-Included files
-- Week2/A2 Task 7.py
-- Week2/A2 Task5.py
-- Week2/A2 Task6.py
-- Week2/Task1.py
-
 What these exercises focus on
 - if / elif / else branching to handle multiple cases
 - for and while loops for iteration
