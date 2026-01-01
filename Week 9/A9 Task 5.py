@@ -1,4 +1,8 @@
-#A9 Task 5.py
+########################################################
+# Task A9_T5
+# Developer Hamza Sahqani
+# Date 2025-12-26
+########################################################
 def getRGB() -> bool:
     global R, G, B, hexColor                       #So it can be used in the main function
     try:
