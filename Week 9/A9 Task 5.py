@@ -3,7 +3,7 @@
 # Developer Hamza Sahqani
 # Date 2025-12-26
 ########################################################
-def getRGB() -> bool:
+def getRGB() -> bool:                             # True/False
     global R, G, B, hexColor                       #So it can be used in the main function
     try:
         R = int(input("Insert red: "))
