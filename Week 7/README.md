@@ -1,9 +1,10 @@
-# Week 7 — Fundamentals: (Dictionary, Lists, Tuples)
+# Week 7 — Fundamentals: Data Structures (Dictionary, Lists, Tuples)
 
 
- topics these exercises might cover
-- More advanced uses of data structures (nested lists/dictionaries), or
-- Applied projects that combine prior topics (functions, classes, file I/O), or
+ topics these exercises  cover
+- More advanced uses of data structures (nested lists/dictionaries, tuples),
+- Understand the differences and when to use certain data structures
+- Applied projects that combine prior topics (functions, classes, file I/O), 
 - Introduction to modules, simple testing, or basic algorithms.
 
 How to adapt this README
