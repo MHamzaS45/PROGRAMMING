@@ -1,6 +1,6 @@
 #A8 T2.py
 
-
+import cat
 def showOptions() -> int:
     print("Options:")
     print("1 - Set pause duration")
